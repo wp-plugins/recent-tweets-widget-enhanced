@@ -11,13 +11,14 @@ Display up to 20 of your most recent tweets easily with zero hassle in your side
 
 This super-simple plugin allows you to easily display the most recent Tweets from any Twitter account as a sidebar widget on your blog. 
 
-= Why Use Recent Tweets? =
+= Why Use Recent Tweets Enhanced Widget? =
 
 * **Extremely Easy To Use -** Just key in your Twitter username. Nothing else is needed. 
 * **Drag & Drop Placement -** You can place your widget anywhere you want - as long as you have a widgetized theme.
 * **Bug-proof -** The plugin has been tested again and again, so there shouldn't be any hair-pulling experiences! 
 * **Lightning-fast Modifications -** Set number of tweets to display, choose where to put it, huge number of options, with just a few clicks! 
 * **Skyrocket your Followers -** A "Followme" link (optional) can increase the number of people following you on Twitter!
+* **Bigger and Badder Than Before! -** Options allow you to go up to 1-20 tweets displayed!
 
 = Support: =
 *Want to see more features? Need Support? Post your questions in the support forum! Our homepage is at - http://wittydiary.com
@@ -25,9 +26,9 @@ This super-simple plugin allows you to easily display the most recent Tweets fro
 
 == Installation ==
 
-1. Upload the file `recent-tweets.php` to the `/wp-content/plugins/` directory
+1. Upload the file `recent tweets enhanced.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Go to Appearance > Widgets and drag 'Recent Tweets' to your sidebar
+3. Go to Appearance > Widgets and drag 'Recent Tweets Enhanced' to your sidebar
 4. Update the settings in the widget: Username, # of Tweets to show, etc.
 
 
