@@ -18,7 +18,7 @@ This super-simple plugin allows you to easily display the most recent Tweets fro
 * **Get More Followers -** Promote your Twitter account with a "follow me" link under your most recent Tweets.
 
 = Support: =
-*Want to see more features? Need Support? Visit the official plugin page here: http://www.zzzprofits.com/plugin/recent-tweets/* and leave a comment. 
+*Want to see more features? Need Support? Post your questions in the support forum! Our homepage is at - http://wittydiary.com
 
 
 == Installation ==
