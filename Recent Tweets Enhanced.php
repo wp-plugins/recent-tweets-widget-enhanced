@@ -13,7 +13,7 @@ register_activation_hook( __FILE__, array('Recent_Tweets_Enhanced', 'activate'))
 register_deactivation_hook( __FILE__, array('Recent_Tweets_Enhanced', 'deactivate'));
 class Recent_Tweets_Enhanced {
   function activate(){
-    $data = array('titletweets' => 'Recent Tweets', 'option1' => '', 'option2' => '3', 'option3' => 'No', 'option4' => 'No');
+    $data = array('titletweets' => 'Recent Tweets', 'option1' => '', 'option2' => '3', 'option3' => 'No', 'option4' => 'Yes');
     if ( ! get_option('recent_tweets_enhanced')){
       add_option('recent_tweets_enhanced' , $data);
     } else {
