@@ -13,9 +13,11 @@ This super-simple plugin allows you to easily display the most recent Tweets fro
 
 = Why Use Recent Tweets? =
 
-* **Easy, Bulletproof Functionality -** Just enter your Twitter username and go. It's that simple. 
-* **Fast Customization -** Changing the options, such as the number of Tweets to display, is a snap. 
-* **Get More Followers -** Promote your Twitter account with a "follow me" link under your most recent Tweets.
+* **Extremely Easy To Use -** Just key in your Twitter username. Nothing else is needed. 
+* **Drag & Drop Placement -** You can place your widget anywhere you want - as long as you have a widgetized theme.
+* **Bug-proof -** The plugin has been tested again and again, so there shouldn't be any hair-pulling experiences! 
+* **Lightning-fast Modifications -** Set number of tweets to display, choose where to put it, huge number of options, with just a few clicks! 
+* **Skyrocket your Followers -** A "Followme" link (optional) can increase the number of people following you on Twitter!
 
 = Support: =
 *Want to see more features? Need Support? Post your questions in the support forum! Our homepage is at - http://wittydiary.com
