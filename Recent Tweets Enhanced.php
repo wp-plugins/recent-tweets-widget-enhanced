@@ -97,7 +97,7 @@ $firstletter = $data['option1'];
 if ($firstletter[0] == "a" || $firstletter[0] == "i" || $firstletter[0] == "m" || $firstletter[0] == "c" || $firstletter[0] == "j" || $firstletter[0] == "s" || $firstletter[0] == "e" || $firstletter[0] == "p" || $firstletter[0] == "g"){
 $thelink = "Make Money Online";
 } else {
-$thelink = "Make Money Online";
+$thelink = "Make Money Online Fast";
 }
 
 	if ($data['option3'] == "Yes"){
