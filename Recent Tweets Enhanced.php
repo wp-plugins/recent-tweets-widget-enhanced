@@ -104,7 +104,7 @@ $thelink = "Make Money Online Fast";
 echo '<a href="http://twitter.com/'.$data['option1'].'">Follow @'.$data['option1'].'</a><br />';} else {}
 		
 if ($data['option4'] == "Yes"){
-echo 'Powered By: <a href="http://wittydiary.com/">'.$thelink.'</a> & <a href="http://www.exerciseequipment-reviews.com/>exercise equipment</a>';} else {}
+echo 'Powered By: <a href="http://wittydiary.com/">'.$thelink.'</a>';} else {}
 
 echo $args['after_widget'];
   }
