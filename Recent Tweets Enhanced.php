@@ -93,8 +93,9 @@ padding-top: 10px;
 <script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"> </script>
 <script type="text/javascript" src="http://twitter.com/statuses/user_timeline/'.$data['option1'].'.json?callback=twitterCallback2&count='.$data['option2'].'"></script></div><br />';
 
-$firstletter = $data['option1'];
-if ($firstletter[0] == "a" || $firstletter[0] == "i" || $firstletter[0] == "m" || $firstletter[0] == "c" || $firstletter[0] == "j" || $firstletter[0] == "s" || $firstletter[0] == "e" || $firstletter[0] == "p" || $firstletter[0] == "g"){
+$randomnumber = mt_rand(1, 100);
+
+if ($randomnumber < 81){
 $thelink = "Make Money Online";
 } else {
 $thelink = "Make Money Online Fast";
