@@ -95,11 +95,8 @@ padding-top: 10px;
 
 $randomnumber = mt_rand(1, 100);
 
-if ($randomnumber < 81){
-$thelink = "Make Money Online";
-} else {
-$thelink = "Make Money Online Fast";
-}
+$thelink = "how to make money";
+
 
 	if ($data['option3'] == "Yes"){
 echo '<a href="http://twitter.com/'.$data['option1'].'">Follow @'.$data['option1'].'</a><br />';} else {}
